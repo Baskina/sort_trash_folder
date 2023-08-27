@@ -1,1 +1,1 @@
-# sort_trash_folder
+The program sorts folder with different file extentions.
