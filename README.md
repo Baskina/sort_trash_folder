@@ -1,1 +1,1 @@
-The program sorts a choosen folder with different file extentions.
+The program sorts a chosen folder with different file extensions.
