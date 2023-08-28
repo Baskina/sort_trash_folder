@@ -141,7 +141,7 @@ def delete_trash_folders():
 def main():
     try:
         folder = sys.argv[1]
-    except:
+    except IndexError:
         folder = 'test_trash_folder'
 
     files = get_all_files(folder)
